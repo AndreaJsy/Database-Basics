@@ -1,2 +1,5 @@
 # Database-Basics
-This is a repository to store course projects from database class.
+
+Final Project preview: http://10.104.251.234/web/main.php
+
+Demo: See file ‘DatabaseFinalDemo.mp4'
